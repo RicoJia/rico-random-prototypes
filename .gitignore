@@ -1,7 +1,8 @@
-build/*
-devel/*
-logs/*
-.catkin_tools/*
-.catkin_workspace
+# Installs and downloads: large, rebuilt per machine
+android-sim/Android/
+android-sim/android-studio/
+android-sim/android-studio-data/
+android-sim/downloads/
+android-sim/android-test-agent/runs/
+.venv/
 __pycache__/
-

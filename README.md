@@ -1,3 +1,4 @@
-# Rico Rtab Map Implementation 
+# Rico's random prototypes
 
-TODO
+- `android-sim`: Android Studio and emulator launchers, and a random-tap test agent.
+- `voice-keyboard`: speech-to-text typing.
